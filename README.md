@@ -18,4 +18,6 @@ Nei file trovate l'eseguibile (per windows, un giorno lo farò anche per Fedora)
 Il codice per ora non lo metto perché mi vergogno
 Il funzionamento è intuitivo, si pigia sul bottone "Seleziona PDF" (si, ho abusato della parola "seleziona", prima o poi lo aggiusto), si pigia "aggiusta PDF" e trovate il file aggiustato nella cartella di origine del file. 
 
+A questo punto avrete un PDF ordinato in modo che se lo stampate come un normale libro avrete sempre la pagina giusta a destra. Una volta arrivati alla pagina Numero di pagine massimo/2 avrete finito il libro, a questo punto basta girarlo sottosopra ed avrete la seconda metà sempre sulla pagina destra. Quando e se mi riesce metterò un esempio animato.
+
 Non fiori ma opere di bene.
